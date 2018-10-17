@@ -101,7 +101,7 @@ Fixed Navigation
       </div>
       <!-- main nav -->
 <?php
-require("menu.php");
+include("menu.php");
 ?>
       <!-- /main nav -->
    </div>
@@ -278,7 +278,7 @@ End Fixed Navigation
 
 
 <?php
-require("pie.php");
+include("pie.php");
 ?>
 
 

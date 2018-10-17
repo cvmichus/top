@@ -287,7 +287,7 @@ Fixed Navigation
       </div>
       <!-- main nav -->
 <?php
-require("menu.php");
+include("menu.php");
 ?>
       <!-- /main nav -->
    </div>
@@ -458,7 +458,7 @@ eficientes  y mejora  nuestra  calidad
 
 
 <?php
-require("pie.php");
+include("pie.php");
 ?>
 
 
